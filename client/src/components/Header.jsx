@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { HashLink } from "react-router-hash-link"; // eslint-disable-line
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"; // eslint-disable-line
 import { faBars, faTimes } from "@fortawesome/free-solid-svg-icons"; // eslint-disable-line
-import logo from "../assets/images/logo.png";
+// import logo from "../assets/images/logo.png";
 
 function Header() {
   // fixed header
