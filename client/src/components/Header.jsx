@@ -31,10 +31,10 @@ function Header() {
           <ul className={Mobile ? "nav-links-mobile" : "link f_flex uppercase"}>
             {/* <ul className='link f_flex uppercase {Mobile ? "nav-links-mobile" : "nav-links"} onClick={() => setMobile(false)}'> */}
             {[
-              "home",
+              "accueil",
               // "features",
               "portfolio",
-              "resume",
+              "parcours et compétences",
               // "clients",
               // "blog",
               "contact",

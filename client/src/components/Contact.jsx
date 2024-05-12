@@ -41,8 +41,8 @@ function Contact() {
       <div>{message}</div>
       <div className="container top">
         <div className="heading text-center">
-          <h4>CONTACT</h4>
-          <h1>Contact With Me</h1>
+          {/* <h4>CONTACT</h4> */}
+          <h1>CONTACT</h1>
         </div>
 
         <div className="content d_flex">
@@ -52,15 +52,11 @@ function Contact() {
                 <img src={contact1} alt="contact" />
               </div>
               <div className="details">
-                <h1>Nevine Acotanza</h1>
-                <p>Chief Operating Officer</p>
-                <p>
-                  I am available for freelance work. Connect with me via and
-                  call in to my account.
-                </p>{" "}
-                <br />
-                <p>Phone: +01234567890</p>
-                <p>Email: admin@example.com</p> <br />
+                <h1>Ange KOUAKOU</h1>
+                <p>Développeur fullstack MERN</p>
+                <p>Contactez-moi !</p> <br />
+                <p>Téléphone: +33 7 51 52 41 88</p>
+                <p>Email: kouakouangeericstephane@gmail.com</p> <br />
                 <span>FIND WITH ME</span>
                 <div className="button f_flex">
                   <button type="button" className="btn_shadow">

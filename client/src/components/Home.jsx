@@ -15,15 +15,15 @@ function Home() {
     <section className="hero" id="home">
       <div className="container f_flex top">
         <div className="left top">
-          <h3>WELCOME TO MY WORLD</h3>
+          <h3>BIENVENUE</h3>
           <h1>
-            Hi, I’m <span>Jone Lee</span>
+            Hey, je suis <span>Ange KOUAKOU</span>
           </h1>
           <h2>
-            a
+            un
             <span>
               <Typewriter
-                words={[" Professional Coder.", " Developer."]}
+                words={[" développeur fullstack MERN.", " passionné de code."]}
                 loop
                 cursor
                 cursorStyle="|"
@@ -35,9 +35,13 @@ function Home() {
           </h2>
 
           <p>
-            I use animation as a third dimension by which to simplify
-            experiences and kuiding thro each and every interaction. I’m not
-            adding motion just to spruce things up, but doing it in ways that.
+            Avec une base en design et un engagement à créer des
+            applications responsives et centrées sur l'expérience de l'utilisateur, j'allie la
+            créativité du front-end à la fonctionnalité du back-end pour offrir
+            une expérience web qualitative. Que vous souhaitiez créer un site web
+            interactif à partir de zéro ou améliorer des fonctionnalités
+            existantes, je suis là pour contribuer à l'atteinte des objectifs
+            numériques.
           </p>
 
           <div className="hero_btn d_flex">
@@ -65,7 +69,7 @@ function Home() {
               </div>
             </div> */}
             <div className="col_1">
-              <h4>BEST SKILL ON</h4>
+              <h4>COMPÉTENCES</h4>
               <div className="button">
                 <button type="button" className="btn_shadow">
                   <img src={React} alt="React" />
