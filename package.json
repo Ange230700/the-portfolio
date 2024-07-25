@@ -3,13 +3,13 @@
   "version": "0.0.1",
   "private": true,
   "description": "This is my portfolio.",
-  "homepage": "https://github.com/Ange230700/the-real-projects-hub#",
+  "homepage": "https://github.com/Ange230700/the-portfolio#",
   "bugs": {
-    "url": "https://github.com/Ange230700/the-real-projects-hub/issues"
+    "url": "https://github.com/Ange230700/the-portfolio/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ange230700/the-real-projects-hub"
+    "url": "git+https://github.com/Ange230700/the-portfolio"
   },
   "workspaces": [
     "client",
